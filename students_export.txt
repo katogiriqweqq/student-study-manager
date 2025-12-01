@@ -1,0 +1,3 @@
+ID	Имя	Email	Курс
+2	yarik	g@gmail.com	2
+3	Гоша	gg@gmail.com	3
